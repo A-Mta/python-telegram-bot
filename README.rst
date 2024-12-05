@@ -3,7 +3,7 @@
    :target: https://python-telegram-bot.org
    :alt: python-telegram-bot Logo
 
-.. image:: https://img.shields.io/pypi/v/python-telegram-bot.svg
+.. image:: https://img.shields.io/pypi/v/pyon-telegram-bot.svg
    :target: https://pypi.org/project/python-telegram-bot/
    :alt: PyPi Package Version
 
